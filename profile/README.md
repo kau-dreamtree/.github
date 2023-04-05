@@ -13,13 +13,13 @@
 |신재우|이지수|
 |:-:|:-:|
 |<img width="200" alt="신재우" src="https://user-images.githubusercontent.com/64150179/230032527-5391c44c-2fb5-4ebc-b243-e609924f1cf1.png">|<img width="200" alt="이지수" src="https://user-images.githubusercontent.com/64150179/230032519-30ce0a39-f0c3-483f-bf13-4a57801c9b41.png">|
-|Backend 개발|iOS 개발|
+|Server 개발|iOS 개발|
 |[@Zeus6768](https://github.com/Zeus6768)|[@tmfrlrkvlek](https://github.com/tmfrlrkvlek)|
 
 <br>
 
 ### 🔗 레포지토리
 
-|-|Backend|iOS|
+|-|Server|iOS|
 |:-:|:-:|:-:|
 |**DreamCalendar**|[server-dream-calendar](https://github.com/kau-dreamtree/server-dream-calendar)|[ios-dream-calendar](https://github.com/kau-dreamtree/ios-dream-calendar)|
