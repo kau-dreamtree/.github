@@ -24,4 +24,4 @@
 |-|Server|iOS|
 |:-:|:-:|:-:|
 |**DreamCalendar**|[server-dream-calendar](https://github.com/kau-dreamtree/server-dream-calendar)|[ios-dream-calendar](https://github.com/kau-dreamtree/ios-dream-calendar)|
-|**JLOG**|-|[ios-jlog](https://github.com/kau-dreamtree/ios-jlog)|
+|**JLOG**|[spring-jlog](https://github.com/kau-dreamtree/spring-jlog)|[ios-jlog](https://github.com/kau-dreamtree/ios-jlog)|
