@@ -4,8 +4,8 @@
 
 > 반갑습니다! <br>
 > 2022년 10월부터 협업 프로젝트를 진행하고 있는 팀 **DreamTree**입니다. <br>
-> 지금은 첫번째 목표인 "**DreamCalendar 앱 출시**"를 향해 달려나가고 있습니다.<br>
-> 첫번째 목표를 달성하기 전에 "**[제이로그(JLOG)](https://apps.apple.com/kr/app/%EC%A0%9C%EC%9D%B4%EB%A1%9C%EA%B7%B8/id6478043877) 앱**"부터 출시했습니다😅
+> 요런 저런 잡다한 앱을 만들고 있습니다.<br>
+> 첫번째로 "**[제이로그(JLOG)](https://apps.apple.com/kr/app/%EC%A0%9C%EC%9D%B4%EB%A1%9C%EA%B7%B8/id6478043877) 앱**"를 출시했습니다
 
 <br>
 
